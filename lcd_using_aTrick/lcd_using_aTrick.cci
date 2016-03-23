@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:479B332A
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\alcd.h"
+NODE:C LEVEL:0 LINE:33 "A -> FLASH"
+NODE:F LEVEL:0 LINE:41 "ext_int2_isr(void)"
+NODE:F LEVEL:0 LINE:109 "main(void)"
