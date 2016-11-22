@@ -1,1 +1,1 @@
-# AVR_microcontroller_codevision_projects
+# AVR-microcontroller-codevision-projects
